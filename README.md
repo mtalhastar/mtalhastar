@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 💬 Ask me about **react and flutter**
+- 💬 Ask me about **Mern Stack and flutter**
 
 - 📫 How to reach me **mtalhastar@gmail.com**
 
