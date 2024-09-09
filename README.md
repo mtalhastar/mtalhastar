@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Talha</h1>
-<h3 align="center">👋 Hello there! Welcome to my GitHub profile! I'm a passionate Software Engineer with passion in building web and mobile applications using cutting-edge technologies like React, Express.js, Node.js, and Flutter.</h3>
+<h3 align="center">👋 Hello there! Welcome to my GitHub profile! I'm a passionate Software Engineer with passion in building web and mobile applications using cutting-edge technologies like NextJS,React, Express.js, Node.js, and Flutter.</h3>
 
 - 🌱 Strong skill in **Mern Stack and flutter**
 
